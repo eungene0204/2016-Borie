@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:minHeight="48dp"
+              android:background="#FFFFFF"
+    >
+
+    <ImageView
+        android:id="@+id/drawer_icon_img"
+        style="@style/drawer_menu_icon_style"
+        />
+
+    <TextView
+        android:id="@+id/drawer_item_title_tv"
+        style="@style/drawer_menu_text_style"
+        />
+
+</LinearLayout>

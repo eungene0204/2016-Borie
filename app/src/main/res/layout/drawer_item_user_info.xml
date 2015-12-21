@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#42A5F5"
+              android:minHeight="150dp"
+    >
+
+
+
+    <!--
+
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:border_width="2dp"
+        app:border_color="#FFffffff"
+        -->
+
+   <!--
+    <ImageView
+        android:id="@+id/user_info_profile_pic_imgview"
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginLeft="16dp"
+        android:src="@drawable/ic_action_person"
+        />
+
+        -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <siva.borie.navdrawer.CircleImageView
+        android:id="@+id/user_info_main_circleimgView"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_alignParentLeft="true"
+        />
+
+
+        <siva.borie.navdrawer.CircleImageView
+        android:id="@+id/user_info_third_circleimgView"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_alignParentRight="true"
+        />
+
+
+        <siva.borie.navdrawer.CircleImageView
+        android:id="@+id/user_info_second_circleimgView"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="16dp"
+        android:layout_toLeftOf="@id/user_info_third_circleimgView"
+        />
+
+
+
+
+    </RelativeLayout>
+
+
+
+
+
+
+    <TextView
+        android:id="@+id/user_info_user_name_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="24dp"
+        android:textSize="17sp"
+        android:textColor="#424242"
+        android:fontFamily="Roboto-Medium"
+        />
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+
+        <TextView
+            android:id="@+id/user_info_user_email_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginBottom="12dp"
+            android:textSize="14sp"
+            android:textColor="#616161"
+            android:fontFamily="Roboto-Regular"
+            />
+
+        <ImageView
+            android:id="@+id/user_info_arrow_img"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="16dp"
+            />
+
+
+    </RelativeLayout>
+
+
+
+
+</LinearLayout>

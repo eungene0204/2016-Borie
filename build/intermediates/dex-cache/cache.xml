@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-d411d1ff7e1a597593fbd77ae072dca613ba305e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-8a8cb8d4a2de8e613dde857b801611aee0679a3b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-dfbe0fc9bd5d5173c298fc0ca327c3df56b7601f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-34f98fe3e3f404b7c4fb8cb132f018a08ff4776d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-2f6cfc915a20bb7e319859f278526ee433e9d93b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-a53a2ad27b40e1133737d7de33fd3d4da28feadf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-574ecdac13fcac42f0f96f8577d48742edc2849e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-655774a6c4a62bbe017180d78e298c81e2553312.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-45a1275eb62ebaa43cc75640c1d091aca4f408d5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-552015e427b184c0814e03dc217d448371eb7892.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-4b4d5b906265ba0de66032ec5c6a98fca0713274.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-df3e6f9e03809855780ec4b691a44eb727127da7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-2de1de8e24c1917a9e75cd36a4581cd23e9f1d10.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-e8b93325c23f070b8ea7b43334c529c71362e645.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-b0bf888d4649abde78d2f84f0eb4b3a2398d9588.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-056f6be68020501a8748aa3fcf84aaef6a7ab4c6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-e8b93325c23f070b8ea7b43334c529c71362e645.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-d411d1ff7e1a597593fbd77ae072dca613ba305e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-4176d5e8e6a39780b3d8605e67cedb85b1de8b49.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-58b9879095b996362303e37395498a73ace8b9f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-58b9879095b996362303e37395498a73ace8b9f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-6f793478cc98ddb2826b2a1d356a9a9aa905e15a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-ecfe0c1ea9e459a1dc78ddf66c27a76124f9efab.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-2f6cfc915a20bb7e319859f278526ee433e9d93b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-2de1de8e24c1917a9e75cd36a4581cd23e9f1d10.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-dfbe0fc9bd5d5173c298fc0ca327c3df56b7601f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-df3e6f9e03809855780ec4b691a44eb727127da7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-4176d5e8e6a39780b3d8605e67cedb85b1de8b49.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-45a1275eb62ebaa43cc75640c1d091aca4f408d5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-ecfe0c1ea9e459a1dc78ddf66c27a76124f9efab.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-34f98fe3e3f404b7c4fb8cb132f018a08ff4776d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-0fb7f1e8ac6ec181cdb41db3f8823af655d998da.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-6153b2d3c6d132dab26bf135bdd0590bfa71755c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-8a8cb8d4a2de8e613dde857b801611aee0679a3b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-655774a6c4a62bbe017180d78e298c81e2553312.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AppData\Local\Android\sdk2\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-cc48e1bdaa5014f1d86426a450eb3ebdba12b6bb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-4435d3ec707860f92fb6c36e60b2c3e39df11c06.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-056f6be68020501a8748aa3fcf84aaef6a7ab4c6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-b0bf888d4649abde78d2f84f0eb4b3a2398d9588.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-0fb7f1e8ac6ec181cdb41db3f8823af655d998da.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-4b4d5b906265ba0de66032ec5c6a98fca0713274.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-574ecdac13fcac42f0f96f8577d48742edc2849e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-6f793478cc98ddb2826b2a1d356a9a9aa905e15a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-6153b2d3c6d132dab26bf135bdd0590bfa71755c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-4435d3ec707860f92fb6c36e60b2c3e39df11c06.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-ff894785d532196eecd3c4a5c9e7c976e6f14a9e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-a53a2ad27b40e1133737d7de33fd3d4da28feadf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-5ff15c81a50944c1e833a69e260f7799b49ecd98.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-78afd0568d5793d75644a3208b73b1ed818359dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\Eungjun\AndroidStudioProjects\Borie\app\build\intermediates\pre-dexed\debug\classes-4d9955d85af03c5910035a974c93ccb578d0b1f8.jar" />
+    </item>
+
+</items>

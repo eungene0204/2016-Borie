@@ -1,0 +1,45 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">#33000000</item>
+
+        <item name="android:colorPrimary">@color/orange_lite</item>
+        <item name="android:colorPrimaryDark">@color/orange_dark</item>
+    </style>
+
+    <style name="drawer_subheader_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginTop">12dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">Roboto-Medium</item>
+        <item name="android:textColor">@color/drawer_subheader_color</item>
+    </style>
+
+    <style name="drawer_menu_text_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:layout_marginLeft">28dp</item>
+        <item name="android:layout_marginTop">12dp</item>
+    </style>
+
+    <style name="drawer_menu_icon_style">
+        <item name="android:layout_width">42dp</item>
+        <item name="android:layout_height">42dp</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:src">@drawable/ic_settings_black_24dp</item>
+    </style>
+
+    <style name="DialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:colorAccent">#FFCC00</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:background">#5fa3d0</item>
+    </style>
+
+
+</resources>

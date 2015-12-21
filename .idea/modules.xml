@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Borie.iml" filepath="$PROJECT_DIR$/Borie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SivaBorieBackend/SivaBorieBackend.iml" filepath="$PROJECT_DIR$/SivaBorieBackend/SivaBorieBackend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
+
