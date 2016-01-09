@@ -2,6 +2,7 @@ package siva.borie.business.fragment;
 
 import android.app.Activity;
 import android.content.Context;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
@@ -29,6 +30,7 @@ import org.json.JSONObject;
 import siva.borie.R;
 import siva.borie.business.Business;
 import siva.borie.business.BusinessUtils;
+import siva.borie.business.activity.GoogleMapActivity;
 import siva.borie.business.adapter.RecommendedListViewAdapter;
 import siva.borie.business.listmanager.RecommendListManager;
 import siva.borie.location.geofence.GeonfenceController;
@@ -54,13 +56,15 @@ public class RecommendedServiceFragment extends Fragment
     public void onCreate(@Nullable Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
+
         setHasOptionsMenu(true);
+        setRetainInstance(true);
 
         mManager = RecommendListManager.getInstance();
         mManager.setContext(getActivity());
         mManager.initDataSet();
 
-        ((AppCompatActivity) getActivity()).getSupportActionBar().setTitle("RE");
+       ((AppCompatActivity) getActivity()).getSupportActionBar().setTitle("Recommend");
 
     }
 
@@ -156,13 +160,23 @@ public class RecommendedServiceFragment extends Fragment
     {
         switch (item.getItemId())
         {
+            case R.id.menu_map:
+                startGoogleMapActivity();
+                break;
 
             default:
                 return super.onOptionsItemSelected(item);
         }
+
+        return super.onOptionsItemSelected(item);
     }
 
-    
+    private void startGoogleMapActivity()
+    {
+        Intent intent = new Intent(getActivity(), GoogleMapActivity.class);
+        startActivity(intent);
+    }
+
 
     private void setListRequest()
     {

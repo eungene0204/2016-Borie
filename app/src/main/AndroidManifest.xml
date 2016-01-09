@@ -5,6 +5,7 @@
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <!--
      To retrieve OAuth 2.0 tokens or invalidate tokens to disconnect a user. This disconnect
@@ -20,36 +21,32 @@
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
-
         <activity
             android:name=".auth.LoginActivity"
-            android:label="@string/app_name">
-
+            android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
         </activity>
-
         <activity
             android:name=".main.MainActivity"
             android:label="@string/app_name" >
-
         </activity>
-
         <activity
             android:name=".user.UserInfoActivity"
             android:label="@string/app_name" >
-
         </activity>
 
-        <!-- Geofence IntentService -->
+        <!-- Google -->
         <service android:name=".location.geofence.GeofenceTransitionIntentService" />
 
         <meta-data
-            android:name="com.google.android.gms.version"
-            android:value="@integer/google_play_services_version" />
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/android_key" />
+
+
 
         <!-- Facebook -->
         <meta-data
@@ -61,8 +58,10 @@
             android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
             android:label="@string/app_name"
             android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-
-
+        <activity
+            android:name=".business.activity.GoogleMapActivity"
+            android:label="@string/title_activity_google_map_acitivy" >
+        </activity>
     </application>
 
 </manifest>

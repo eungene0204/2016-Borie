@@ -25,7 +25,7 @@
     <!--Facebook -->
     <string name="facebook_app_id">1571520856438370</string>
 
-    <!--Geofence -->
+    <!--Google-->
     <string name="geofence_not_available">Geofence is not available</string>
     <string name="geofence_too_many_geofences">Too many geofences</string>
     <string name="geofence_too_many_pending_intents">Too many pending intents</string>
@@ -35,12 +35,16 @@
     <string name="geofence_unknown_transition">geofence_unknown_transition</string>
     <string name="geofence_transition_notification_text">Geofence Tratinsiton</string>
     <string name="title_activity_login">LoginActivity</string>
+    <string name="android_key">AIzaSyCDMnCCptwTb3LigEG7UyYILwsLWLPty1E</string>
+
+
 
     <!-- Dialog -->
     <string name="account_add_title">계정추가</string>
 
 <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_google_map_acitivy">GoogleMapAcitivy</string>
 
 
 </resources>

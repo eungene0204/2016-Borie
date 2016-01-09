@@ -13,9 +13,9 @@
           -->
 
     <item
-        android:id="@+id/menu_swap_vert"
-        android:icon="@drawable/ic_action_swap_vert"
-        android:title="Distance"
+        android:id="@+id/menu_map"
+        android:icon="@drawable/ic_action_map"
+        android:title="Map"
         app:showAsAction="ifRoom"
         />
 </menu>

@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity implements FacebookTokenList
     private ActionBarDrawerToggle mDrawerToggle;
     private DrawerLayout mDrawerLayout;
     private ViewPager mViewPager;
-    private RecyclerView mRecyclerView;
+    private RecyclerView mNavRecyclerView;
     private RecyclerView.Adapter mNavDrawerAdapter;
     private RecyclerView.LayoutManager mLayoutManager;
 
@@ -52,10 +52,10 @@ public class MainActivity extends AppCompatActivity implements FacebookTokenList
         Toolbar toolbar = (Toolbar) findViewById(R.id.tool_bar);
         setSupportActionBar(toolbar);
 
-        //Set toggle
+        //Set Drawer toggle
         mDrawerLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
-        mDrawerToggle = new ActionBarDrawerToggle(this, mDrawerLayout, R.string.app_name,
-                R.string.app_name);
+        mDrawerToggle = new ActionBarDrawerToggle(this, mDrawerLayout,toolbar,
+                R.string.app_name, R.string.app_name);
         mDrawerLayout.setDrawerListener(mDrawerToggle);
 
 
@@ -64,19 +64,20 @@ public class MainActivity extends AppCompatActivity implements FacebookTokenList
         ViewPagerAdapter viewPagerAdapter = new ViewPagerAdapter(getSupportFragmentManager());
         mViewPager.setAdapter(viewPagerAdapter);
 
+
+        //NavDrawer RecyclerView init
+        mNavRecyclerView = (RecyclerView) findViewById(R.id.drawer_main_recyclerview);
+        mLayoutManager = new LinearLayoutManager(this);
+        mNavRecyclerView.setLayoutManager(mLayoutManager);
+        mNavDrawerAdapter = new NavDrawerAdapter(NavDrawerListManager.
+          getInstance(getApplicationContext()), this, mViewPager, mDrawerLayout);
+        mNavRecyclerView.setAdapter(mNavDrawerAdapter);
+
         //Facebook stuff
         FacebookHelper.getInstance().setFBtokenListener(this);
         FacebookHelper.getInstance().addReadPermissions(this);
         FacebookHelper.getInstance().graphRequest();
 
-
-        //NavDrawer
-        mRecyclerView = (RecyclerView) findViewById(R.id.drawer_main_recyclerview);
-        mLayoutManager = new LinearLayoutManager(this);
-        mRecyclerView.setLayoutManager(mLayoutManager);
-        mNavDrawerAdapter = new NavDrawerAdapter(NavDrawerListManager.
-          getInstance(getApplicationContext()), this, mViewPager, mDrawerLayout);
-        mRecyclerView.setAdapter(mNavDrawerAdapter);
 
     }
 
