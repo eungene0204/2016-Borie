@@ -47,7 +47,6 @@ public class MainActivity extends AppCompatActivity implements FacebookTokenList
 
         Log.i(TAG, "onCreate");
 
-
         //Set toolbar
         Toolbar toolbar = (Toolbar) findViewById(R.id.tool_bar);
         setSupportActionBar(toolbar);
@@ -75,8 +74,8 @@ public class MainActivity extends AppCompatActivity implements FacebookTokenList
 
         //Facebook stuff
         FacebookHelper.getInstance().setFBtokenListener(this);
-        FacebookHelper.getInstance().addReadPermissions(this);
-        FacebookHelper.getInstance().graphRequest();
+        //FacebookHelper.getInstance().addReadPermissions(this);
+        //FacebookHelper.getInstance().graphRequest();
 
 
     }

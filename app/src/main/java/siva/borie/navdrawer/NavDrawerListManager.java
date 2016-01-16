@@ -119,12 +119,11 @@ public class NavDrawerListManager
         //Add Twitter Account
         NavDrawerItem twitter_acct = new NavDrawerItem(ItemType.SWITCH, ItemId.TWITTER_ACCOUNT);
         twitter_acct.setTitle("Twitter");
-         twitter_acct.setIconDrawble(ContextCompat.getDrawable(
-                 mContext, R.drawable.twitterlogo));
+         twitter_acct.setIconDrawble(ContextCompat.getDrawable( mContext, R.drawable.twitterlogo));
         mItemList.add(twitter_acct);
 
 
-        //Add Instaram Acctount
+        //Add Instagram Acctount
         NavDrawerItem instaAcct = new NavDrawerItem(ItemType.SWITCH, ItemId.INSTAGRAM_ACCOUNT);
         instaAcct.setTitle("Instagram");
         instaAcct.setIconDrawble(ContextCompat.getDrawable(

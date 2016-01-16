@@ -3,7 +3,7 @@
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
-        <item name="android:statusBarColor">#33000000</item>
+        <item name="android:statusBarColor">@color/orange_dark</item>
 
         <item name="android:colorPrimary">@color/orange_lite</item>
         <item name="android:colorPrimaryDark">@color/orange_dark</item>

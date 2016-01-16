@@ -12,6 +12,7 @@ import android.view.ViewGroup;
 import siva.borie.R;
 import siva.borie.facebook.FacebookHelper;
 import siva.borie.facebook.FacebookUser;
+import siva.borie.facebook.NullFacebookUser;
 import siva.borie.facebook.listener.FacebookRequestListener;
 import siva.borie.navdrawer.NavDrawerItem;
 import siva.borie.navdrawer.NavDrawerListManager;
@@ -135,11 +136,15 @@ public class NavDrawerAdapter extends RecyclerView.Adapter<NavDrawerViewHolder>
 
 
     @Override
-    public void onFacebookRequestCompleted(FacebookUser user)
+    public void onFacebookRequestCompleted(FacebookUser facebookUser)
     {
         Log.i(TAG, "onFacebookRequestCompleted");
 
-        mFacebookUser = user;
+        if( null == facebookUser )
+            mFacebookUser = new NullFacebookUser();
+        else
+            mFacebookUser = facebookUser;
+
         notifyDataSetChanged();
 
     }
@@ -150,15 +155,9 @@ public class NavDrawerAdapter extends RecyclerView.Adapter<NavDrawerViewHolder>
         mIsUserMenu = isUserMenu;
 
         if(false == mIsUserMenu)
-        {
-
             NavDrawerListManager.getInstance(mContext).UserMenuDatainit();
-        }
         else
-        {
             NavDrawerListManager.getInstance(mContext).initData();
-
-        }
 
         notifyDataSetChanged();
 
